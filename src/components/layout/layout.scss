@@ -1,0 +1,9 @@
+$simple-red: rgba(255, 0, 0, 0.7);
+
+#header {
+  background-color: $simple-red;
+
+  .navbar-header {
+    background-color: unset;
+  }
+}

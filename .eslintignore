@@ -1,0 +1,8 @@
+app/*
+build/*
+renderer/next.config.js
+!build/index.js
+*.css
+*.scss
+*.svg
+*.d.ts
